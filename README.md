@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PuntikaL
 - 👀 I code in python/Java/C/C++
-- 🌱 I’m currently learning in using git hub uwu
-- 💞️ I don't know what to write here
+- 🌱 this plant is cute
+- 💞️ yeah yeah
 - 📫 How to reach me : puntika.leepagorn@gmail.com
 
 <!---
