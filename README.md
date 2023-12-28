@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PuntikaL
-- 👀 I code in python/Java/C/C++
+- 👀 I code mainly in python/Java/C/C++
 - 🌱 this plant is cute
-- 💞️ yeah yeah
+- 💞️ I'm interested in AI, ML, computer vision, game developing, software developing, and research
 - 📫 How to reach me : puntika.leepagorn@gmail.com
 
 <!---
