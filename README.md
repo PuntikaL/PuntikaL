@@ -4,7 +4,7 @@
 - 💞️ I'm interested in AI, ML, computer vision, game developing, software developing, and research
 - 📫 How to reach me : puntika.leepagorn@gmail.com
 
-- My subjects that might help for your study </br>
+- My subjects that might help with your study </br>
   Basic Python : https://colab.research.google.com/drive/1k_K-TANBY5kM6YrXklJIM1r1-UiHOpfv#scrollTo=qMIYd10BYnF_ </br>
   Introducing to pygame: https://colab.research.google.com/drive/1ZA5owu5e3E0IriOMjhFUArKDTg7B2Aep#scrollTo=k5g00V_O5dCZ </br>
 <!---
