@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PuntikaL
 - 👀 I code mainly in python/Java/C/C++
 - 🌱 this plant is cute
-- 💞️ I'm interested in AI, ML, computer vision, game developing, software developing, game theory, and research
+- 💞️ I'm interested in AI, ML, computer vision, game developing, software developing, bioinformatics, and research
 - 📫 How to reach me : puntika.leepagorn@gmail.com
 
 - My subjects that might help with your study </br>
